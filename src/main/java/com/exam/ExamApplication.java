@@ -14,7 +14,8 @@ public class ExamApplication {
             if (i % 2 == 0) {           // check if number is even
                 System.out.println("Even: " + i); // print even number
                 sum += i;               // add to sum
-                count++;      
+                int x = 10;
+				count++;      
 	}
 
 }
