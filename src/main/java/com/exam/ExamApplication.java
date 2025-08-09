@@ -17,10 +17,8 @@ public class ExamApplication {
                 int x = 10;
                 char ch = x;
                 boolean isSub=True;
-		count++;      
-
-				
-				 
+                float m=10.3f;
+                count++;	      
 	}
 
 }
