@@ -15,7 +15,8 @@ public class ExamApplication {
                 System.out.println("Even: " + i); // print even number
                 sum += i;               // add to sum
                 int x = 10;
-				count++;      
+                boolean isSub=True;
+		count++;      
 	}
 
 }
